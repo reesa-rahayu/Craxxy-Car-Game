@@ -1,4 +1,4 @@
-![image.png](attachment:a98b1327-8c01-4974-b461-fecf3906325b:image.png)
+![Alt Text](URL or relative path to image)
 
 In this game, players control a car moving across the screen, avoiding obstacles and trying to get the highest score possible. The game features a responsive design and smooth animations created with CSS, while the game mechanics, such as collision detection, score tracking, and movement logic, are implemented using JavaScript. The goal is to provide a fun, fast-paced experience in a minimalist setup, demonstrating the use of fundamental web development skills.
 
