@@ -1,4 +1,5 @@
-![Game Screenshoot](/screenshots/Screenshot 2025-03-03 121141.png)
+[![Game Screenshoot]([/screenshots/Screenshot 2025-03-03 121141.png](https://github.com/reesa-rahayu/Craxxy-Car-Game/blob/main/screenshots/Screenshot%202025-03-03%20121141.png))
+](https://github.com/reesa-rahayu/Craxxy-Car-Game/blob/main/screenshots/Screenshot%202025-03-03%20121141.png)
 
 In this game, players control a car moving across the screen, avoiding obstacles and trying to get the highest score possible. The game features a responsive design and smooth animations created with CSS, while the game mechanics, such as collision detection, score tracking, and movement logic, are implemented using JavaScript. The goal is to provide a fun, fast-paced experience in a minimalist setup, demonstrating the use of fundamental web development skills.
 
